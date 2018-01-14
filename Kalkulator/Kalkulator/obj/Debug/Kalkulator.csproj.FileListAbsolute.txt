@@ -1,0 +1,10 @@
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\ja\Desktop\do roboty!\lab 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
